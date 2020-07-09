@@ -20,9 +20,8 @@
     border-radius: 6px;
 }
 .carousel{
+    height: 650px;
     background-image: url("images/bg-2.png");
     background-repeat: no-repeat;
-    background-position-x: left;
-    background-position-y: bottom;
-    background-size: 13%;
+    background-position: bottom left;
 }
