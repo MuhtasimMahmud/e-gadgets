@@ -2,6 +2,9 @@
     background-color: white;
 }
 .carousel-products-images{
-    height: 600px;
-    width: 600px;
+    height: 560px;
+    width: 585px;
+}
+.center-bg-images-of-carousel{
+    height: 385px;
 }
