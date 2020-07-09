@@ -8,3 +8,21 @@
 .center-bg-images-of-carousel{
     height: 385px;
 }
+.item-of-nav{
+    color: black;
+}
+.buy-now-button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 7px 23px;
+    border-radius: 6px;
+}
+.carousel{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: bottom;
+    background-size: 13%;
+}
