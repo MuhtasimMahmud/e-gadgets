@@ -24,4 +24,33 @@
     background-image: url("images/bg-22.png");
     background-repeat: no-repeat;
     background-position: left bottom;
+    margin-bottom: 120px;
+}
+.see-all{
+    font-size: 18px;
+    color: #ff9d00;
+}
+.bar-of-see-all{
+    margin-bottom: 28px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px lightgray ;
+    border: none;
+}
+.card img{
+    padding: 50px 50px;
+}
+.card-text , .card-title{
+    text-align: center;
+}
+.price-tag{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.smartphone, .laptop{
+    margin-bottom: 120px;
+}
+.card-deck{
+    height: 650px;
 }
