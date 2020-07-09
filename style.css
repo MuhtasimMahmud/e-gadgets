@@ -21,7 +21,8 @@
 }
 .carousel{
     height: 650px;
-    background-image: url("images/bg-2.png");
+    background-image: url("images/bg-22.png");
     background-repeat: no-repeat;
     background-position: bottom left;
+    background-position-x: 0em;
 }
