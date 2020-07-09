@@ -54,3 +54,20 @@
 .card-deck{
     height: 650px;
 }
+.cat4 img{
+    padding-right: 30px;
+    height: 445px;
+    width: 550px;
+}
+.catagory img{
+    padding: 30px 50px;
+}
+.cat1{
+    height: 210px;
+    width: 100px;
+    border: 1px solid black;
+    margin-top: 200px;
+}
+.catagory h4{
+    text-align: center;
+}
